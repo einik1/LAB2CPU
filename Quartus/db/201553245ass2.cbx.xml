@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="201553245ass2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|TOP_LEVEL|ALU:alu_uu|arithmeticUnit:au_uu|mul:muluu|lpm_mult:Mult0" CBX_FILE_NAME="mult_lus.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TOP_LEVEL|IEEE_Mult:mul_uu|lpm_mult:Mult0" CBX_FILE_NAME="mult_p8t.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

@@ -1,0 +1,7 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,ALU:alu_uu|arithmeticUnit:au_uu|mul:muluu|lpm_mult:Mult0|mult_lus:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,IEEE_Mult:mul_uu|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,IEEE_Mult:mul_uu|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out8,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,IEEE_Mult:mul_uu|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,IEEE_Mult:mul_uu|lpm_mult:Mult0|mult_p8t:auto_generated|mac_out6,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,IEEE_Mult:mul_uu|lpm_mult:Mult0|mult_p8t:auto_generated|mac_mult3,
